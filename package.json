@@ -1,0 +1,10 @@
+{
+    "name": "edpx-platform",          
+    "version": "0.0.2",            
+    "dependencies": {},
+    "main": "index.js",       
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/rachardking/edp-platform.git"
+    }
+}
